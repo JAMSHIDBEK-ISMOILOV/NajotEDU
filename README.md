@@ -1,0 +1,2 @@
+# NajotEDU
+Attendance management service
